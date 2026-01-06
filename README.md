@@ -21,19 +21,19 @@
 
 ```text
 💬 Programming Languages: 
-mcfunction               2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.14 % 
-Python                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-JSON                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Java Properties          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+mcfunction               2 hrs 25 mins       █████████████░░░░░░░░░░░░   50.30 % 
+JSON                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Java Properties          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       ███████████████░░░░░░░░░░   61.23 % 
-Trae                     2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.77 % 
+VS Code                  3 hrs 36 mins       ███████████████████░░░░░░   74.86 % 
+Trae                     1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
 ```
 
 
- Last Updated on 05/01/2026 18:54:09 UTC
+ Last Updated on 06/01/2026 18:52:15 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/lyjdtz?template=classic&base.indepth=true&stars=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.display=large)
