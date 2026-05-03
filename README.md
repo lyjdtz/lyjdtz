@@ -21,17 +21,19 @@
 
 ```text
 💬 Programming Languages: 
-MDX                      20 mins             ████████████████████████░   96.26 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+MDX                      20 mins             ██████████████████░░░░░░░   70.67 % 
+Other                    7 mins              ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             ██████████████████░░░░░░░   73.56 % 
+Trae                     7 mins              ███████░░░░░░░░░░░░░░░░░░   26.44 % 
 ```
 
 
- Last Updated on 02/05/2026 19:31:55 UTC
+ Last Updated on 03/05/2026 19:32:24 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/lyjdtz?template=classic&base.indepth=true&stars=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.display=large)
