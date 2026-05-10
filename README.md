@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-258.76%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-258.79%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-🌆 Daytime                130 commits         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-🌃 Evening                145 commits         ████████░░░░░░░░░░░░░░░░░   31.80 % 
-🌙 Night                  134 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+🌆 Daytime                130 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+🌃 Evening                145 commits         ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌙 Night                  134 commits         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
 ```
 
 
@@ -21,19 +21,18 @@
 
 ```text
 💬 Programming Languages: 
-mcfunction               22 mins             ████████████░░░░░░░░░░░░░   48.87 % 
-MDX                      13 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+MDX                      33 mins             ███████████░░░░░░░░░░░░░░   42.68 % 
+mcfunction               22 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+YAML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████░░░░   82.95 % 
-Trae                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2026 19:39:16 UTC
+ Last Updated on 10/05/2026 19:39:32 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/lyjdtz?template=classic&base.indepth=true&stars=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.display=large)
