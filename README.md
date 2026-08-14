@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BA71F7&center=true&vCenter=true&width=435&lines=Hi%2C%E6%88%91%E6%98%AF%E5%85%94%E5%AD%90)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20mins-blue?style=flat)
 
@@ -23,15 +23,15 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 49 mins             ███████████████████░░░░░░   75.46 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-mcfunction               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-MDX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 49 mins             ██████████████████░░░░░░░   73.41 % 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+mcfunction               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+MDX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   99.03 % 
-Trae                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+VS Code                  1 hr 7 mins         █████████████████████████   99.06 % 
+Trae                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -41,7 +41,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/08/2026 19:32:49 UTC
+ Last Updated on 14/08/2026 19:26:29 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/lyjdtz?template=classic&base.indepth=true&stars=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.display=large)
