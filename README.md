@@ -3,45 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BA71F7&center=true&vCenter=true&width=435&lines=Hi%2C%E6%88%91%E6%98%AF%E5%85%94%E5%AD%90)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2037%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-242.94%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.45%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-🌆 Daytime                125 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌙 Night                  130 commits         ████████░░░░░░░░░░░░░░░░░   30.52 % 
+🌞 Morning                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+🌆 Daytime                126 commits         ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
+🌙 Night                  131 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-JSON                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-PowerShell               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Java Properties          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 9 mins        █████████████████████████   98.55 % 
-Trae                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 19/08/2026 19:00:57 UTC
+ Last Updated on 20/08/2026 06:12:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
